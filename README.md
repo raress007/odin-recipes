@@ -1,8 +1,5 @@
-Odin Recipes
-About This Project
 This is a basic recipe website built as part of The Odin Project Foundations curriculum.
 The site features a main index page linking out to individual recipe pages. The goal of this project is to practice and solidify core HTML skill as well as structuring content with semantic elements, working with links, lists, and images, and organizing a multi-page website from scratch.
-Skills Demonstrated
 By completing this project, I will have practiced:
 
 Structuring HTML documents using semantic elements
